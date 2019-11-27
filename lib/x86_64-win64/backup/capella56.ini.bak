@@ -1,0 +1,12 @@
+[MAIN]
+port=8080
+threaded=true
+queuesize=10000
+acceptidletimeout=1000
+lookuphostname=false
+
+[DB]
+host=
+port=
+username=
+password=

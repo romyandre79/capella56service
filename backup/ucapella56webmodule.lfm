@@ -1,0 +1,17 @@
+object Capella56WebModule: TCapella56WebModule
+  OldCreateOrder = False
+  Actions = <  
+    item
+      Name = 'Hello'
+      Default = True
+      OnRequest = HelloActionRequest
+      Template.AllowTagParams = False
+    end>
+  DefActionWhenUnknown = False
+  CreateSession = False
+  Height = 150
+  HorizontalOffset = 298
+  VerticalOffset = 145
+  Width = 150
+  PPI = 96
+end
